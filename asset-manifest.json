@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6f403936.css",
+    "main.js": "/static/js/main.4315cdec.js",
+    "static/media/Три товарища громкая тема.mp4": "/static/media/Три товарища громкая тема.fe890d58535f58cbecda.mp4",
+    "static/media/Бэтмен на минуту.mp4": "/static/media/Бэтмен на минуту.543d44bb3e700fc51e8a.mp4",
+    "static/media/Шерлок Британский.mp4": "/static/media/Шерлок Британский.15c851ac8fc92d6cd28e.mp4",
+    "static/media/Шерлок Циммер.mp4": "/static/media/Шерлок Циммер.c4002599d16266458c28.mp4",
+    "static/media/Гладиатор т. с дудуком.mp4": "/static/media/Гладиатор т. с дудуком.c014b9a84ddebcf01d6b.mp4",
+    "static/media/Шиндлер.mp4": "/static/media/Шиндлер.669135bc622aa4df7093.mp4",
+    "static/media/Интерстеллар 2я тема.mp4": "/static/media/Интерстеллар 2я тема.e09037abe1a324c978eb.mp4",
+    "static/media/Три товарища 1я тема.mp4": "/static/media/Три товарища 1я тема.6722986aa0ac7fd5105f.mp4",
+    "static/media/Гэтсби тема Гершвин 1.mp4": "/static/media/Гэтсби тема Гершвин 1.da2a4a99a02e1a5d5588.mp4",
+    "static/media/ПРизрак оперы.mp4": "/static/media/ПРизрак оперы.8bf7c9e4c0ea42a137d0.mp4",
+    "static/media/Интерстеллар 1я тема.mp4": "/static/media/Интерстеллар 1я тема.730bcaf56d07384e39e2.mp4",
+    "static/media/Пекло.mp4": "/static/media/Пекло.22c99f4a84084588a65e.mp4",
+    "static/media/Гарри Поттер т. на органе.mp4": "/static/media/Гарри Поттер т. на органе.2e368dac3a5fbd933e4f.mp4",
+    "static/media/Гэтсби тема Ланы Делрой 1.mp4": "/static/media/Гэтсби тема Ланы Делрой 1.ae87c9c44eaef9417c30.mp4",
+    "static/media/Гэтсби тема Гершвин 2.mp4": "/static/media/Гэтсби тема Гершвин 2.45e8b5b4dcdc4b7b0910.mp4",
+    "static/media/Пираты тема воробей целиком.mp4": "/static/media/Пираты тема воробей целиком.3bf650267a95506a6bdd.mp4",
+    "static/media/Шерлок USSR.mp4": "/static/media/Шерлок USSR.5a075fa145e2f9465904.mp4",
+    "static/media/Парк юрского периода 23 секунды.mp4": "/static/media/Парк юрского периода 23 секунды.e38dce0b4027b29e9a36.mp4",
+    "static/media/Бэтмен 1 20 секунд.mp4": "/static/media/Бэтмен 1 20 секунд.10b40e57ec87d0eac3b0.mp4",
+    "static/media/Гарри Поттер т.2.mp4": "/static/media/Гарри Поттер т.2.bb02087c3f72a74d6d0b.mp4",
+    "static/media/Гладиатор без дудука тема.mp4": "/static/media/Гладиатор без дудука тема.487eb12a2a7d46f5623a.mp4",
+    "static/media/Парк Юрского периода.mp4": "/static/media/Парк Юрского периода.2ad05c790059ab54aca7.mp4",
+    "static/media/Бэтмен кролик 17 секунд.mp4": "/static/media/Бэтмен кролик 17 секунд.bda5481b719e2e8adcef.mp4",
+    "static/media/Бэтмен 15 секунд.mp4": "/static/media/Бэтмен 15 секунд.f8cdca85f8328893cf38.mp4",
+    "static/media/звёздные войны имперский марш.mp4": "/static/media/звёздные войны имперский марш.7d795c80dab4004b5e65.mp4",
+    "static/media/Начало (TIME).mp4": "/static/media/Начало (TIME).7f44c017df2d402565d4.mp4",
+    "static/media/Пиратытема воробья 15 сек.mp4": "/static/media/Пиратытема воробья 15 сек.4db64c0d802ab237ea88.mp4",
+    "static/media/звёздные войны главная тема.mp4": "/static/media/звёздные войны главная тема.940f384bf54a880bfa80.mp4",
+    "static/media/звёздные войны тема силы.mp4": "/static/media/звёздные войны тема силы.51d4273470b69f0e8383.mp4",
+    "static/media/img.png": "/static/media/img.6f146641ac3130c89695.png",
+    "index.html": "/index.html",
+    "main.6f403936.css.map": "/static/css/main.6f403936.css.map",
+    "main.4315cdec.js.map": "/static/js/main.4315cdec.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6f403936.css",
+    "static/js/main.4315cdec.js"
+  ]
+}
